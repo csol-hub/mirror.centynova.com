@@ -1,1 +1,15 @@
-
+---
+name: mirror.centynova.com
+address:
+  http: http://mirror.centynova.com/almalinux/
+  https: https://mirror.centynova.com/almalinux/ 
+update_frequency: 3h
+sponsor: Centynova
+sponsor_url: https://www.centynova.com/
+email: operaciones@centynova.com
+geolocation:
+  country: MX
+  state_province: Mexico City
+  city: Mexico City
+private: false
+monopoly: false
